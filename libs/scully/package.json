@@ -24,7 +24,7 @@
     "guess-parser": "^0.4.17",
     "jsdom": "^16.2.1",
     "jsonc": "2.0.0",
-    "marked": "^0.8.1",
+    "marked": "^4.0.10",
     "open": "^7.0.3",
     "puppeteer": "^2.0.0",
     "selfsigned": "^1.10.7",
