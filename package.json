@@ -56,7 +56,7 @@
     "cors": "^2.8.5",
     "cz-customizable": "^6.2.0",
     "js-yaml": "^3.13.1",
-    "jsdom": "^16.2.1",
+    "jsdom": "^16.5.0",
     "minimatch": "^3.0.4",
     "rxjs": "^6.5.5",
     "scully-plugin-disable-angular": "^4.0.2",
